@@ -1,3 +1,4 @@
+/* eslint-disable */
 const config = {
   displayName: 'reoff-parse-references',
   preset: '../../../jest.preset.js',
